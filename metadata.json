@@ -1,0 +1,6 @@
+{
+  "name": "Solo Leveling System",
+  "description": "An immersive RPG System tracking XP, level-ups, daily quests, and stats, inspired by Solo Leveling, complete with dungeon gates and System AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
